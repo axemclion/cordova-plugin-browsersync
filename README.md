@@ -1,3 +1,7 @@
+# This doesn't work anymore.
+
+---
+
 # Cordova Browser-Sync Plugin
 
 [![dependencies Status](https://david-dm.org/nparashuram/cordova-plugin-browsersync/status.svg)](https://david-dm.org/nparashuram/cordova-plugin-browsersync)
